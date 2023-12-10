@@ -1,0 +1,74 @@
+{
+  "name": "Midnight-Espresso",
+  "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+  "authors": [
+      {
+          "name": "komette",
+          "id": "555686162153472000"
+      },
+
+      {
+          "name": "Vodka Martini",
+          "id": "1068030255455015013"
+        
+      }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#1d6fa5"],
+    "HEADER_SECONDARY": ["#1d6fa5"],
+    "TEXT_NORMAL": ["#c2d5e3"],
+    "TEXT_MUTED": ["#657984"],
+    "INTERACTIVE_NORMAL": ["#1d6fa5"],
+    "INTERACTIVE_HOVER": ["#2f4a53"],
+    "INTERACTIVE_ACTIVE": ["#1d6fa5"],
+    "INTERACTIVE_MUTED": ["#5b6b74"],
+    "BACKGROUND_PRIMARY": ["#050709"],
+    "BACKGROUND_SECONDARY": ["#080c0f"],
+    "BACKGROUND_SECONDARY_ALT": ["#080c0f"],
+    "BACKGROUND_TERTIARY": ["#050709"],
+    "BACKGROUND_ACCENT": ["#2f4a53"],
+    "BACKGROUND_FLOATING": ["#080c0f"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#080c0f"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#080c0f"],
+    "BACKGROUND_NESTED_FLOATING": ["#080c0f"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1e2a2f"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1e2a2f"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#231e1d"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#221f20"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#2f4a53"],
+    "SCROLLBAR_THIN_THUMB": ["#21233b"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#9fa69b"],
+    "SCROLLBAR_AUTO_TRACK": ["#9fa69b"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#222b30"],
+    "CHANNELS_DEFAULT": ["#7f8d92"],
+    "TEXT_LINK": ["#7f8d92"],
+    "TEXT_DANGER": ["#2f4a53"],
+    "KEYBOARD": ["#050709"],
+    "CHANNEL_ICON": ["#1d6fa5"],
+    "CHAT_BACKGROUND": ["#050709"]
+  },
+  "rawColors": {
+      "PRIMARY_500": "#9E8376",
+      "PRIMARY_100": "#EFDFD7",
+      "PRIMARY_200": "#F4EAE5",
+      "PRIMARY_300": "#9E8376",
+      "PRIMARY_360": "#9E8376",
+      "PRIMARY_400": "#9E8376",
+      "PRIMARY_600": "#100D0A",
+      "PRIMARY_630": "#1B1411",
+      "PRIMARY_660": "#1B1411",
+      "PRIMARY_700": "#100D0A",
+      "PRIMARY_800": "#100D0A",
+      "BRAND_260": "#957261",
+      "BRAND_360": "#D0A996",
+      "BRAND_500": "#957261",
+      "BRAND_560": "#D0A996",
+      "YELLOW_300": "#957261",
+      "GREEN_600": "#EFDFD7",
+      "RED_400": "#9E8376",
+      "WHITE_500": "#EFDFD7",
+      "GREEN_360": "#503E38"
+  },
+  "spec": 2
+}
