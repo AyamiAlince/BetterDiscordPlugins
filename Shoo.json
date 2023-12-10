@@ -19,9 +19,9 @@
       "INTERACTIVE_MUTED": ["#14589a"],
       "BACKGROUND_PRIMARY": ["#082767"],
       "BACKGROUND_SECONDARY": ["#0754b8"],
-      "BACKGROUND_SECONDARY_ALT": ["#0754b8"],
-      "BACKGROUND_TERTIARY": ["#0339cb"],
-      "BACKGROUND_ACCENT": ["#0339cb"],
+      "BACKGROUND_SECONDARY_ALT": ["#133253"],
+      "BACKGROUND_TERTIARY": ["#2B4C6F"],
+      "BACKGROUND_ACCENT": ["#738CA6"],
      
       "BACKGROUND_NESTED_FLOATING": ["#EFDFD7"]
     },
@@ -29,8 +29,8 @@
       "PRIMARY_500": "#9E8376"
     },
     "background": {
-      "blur": 0.6,
+      "blur": 0.9,
       "url": "https://cdn.discordapp.com/attachments/1101595320602857535/1183450873851039824/F_sUPG6W0AA0pWO_1.jpg?ex=65886183&is=6575ec83&hm=1fc7cc79b94009ef4ecf5103ed02996ec97696ce4de1572925a51c2c50381f98&",
-      "alpha": 0.4
+      "alpha": 1
     }
   }
