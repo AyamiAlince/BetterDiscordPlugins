@@ -1,0 +1,22 @@
+{
+    "name": "Shoozki",
+    "description": "Theme Vtuber Shozki",
+    "authors": [
+      {
+        "name": "Ayami",
+        "id": ""
+      }
+    ],
+    "spec": 2,
+    "semanticColors": {
+      "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+    },
+    "rawColors": {
+      "PRIMARY_500": "#9E8376"
+    },
+    "background": {
+      "blur": 0.6,
+      "url": "https://cdn.discordapp.com/attachments/1101595320602857535/1183450873851039824/F_sUPG6W0AA0pWO_1.jpg?ex=65886183&is=6575ec83&hm=1fc7cc79b94009ef4ecf5103ed02996ec97696ce4de1572925a51c2c50381f98&",
+      "alpha": 0.4
+    }
+  }
