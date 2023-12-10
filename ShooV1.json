@@ -81,10 +81,10 @@
       "#a89984"
       ],
       "HEADER_PRIMARY": [
-      "#ebdbb2"
+      "#238fed"
       ],
       "HEADER_SECONDARY": [
-      "#ebdbb2"
+      "#1b70ba"
       ],
       "INTERACTIVE_ACTIVE": [
       "#ebdbb2"
@@ -129,13 +129,13 @@
       "#fb4934"
       ],
       "TEXT_LINK": [
-      "#b8bb26"
+      "#2087e0"
       ],
       "TEXT_MUTED": [
       "#928374"
       ],
       "TEXT_NORMAL": [
-      "#ebdbb2"
+      "##ffffff"
       ],
       "TEXT_SECONDARY": [
       "#d3869b"
